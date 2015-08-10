@@ -1,17 +1,26 @@
 # keui
 
-NO gulp!  NO SCSS!  NO CoffeeScript!  NO Grunt、Stylus、LESS....!!!!
-没有封装！！
+NO gulp!  NO SCSS!  NO CoffeeScript!  NO Grunt、Stylus、LESS....!!!!没有封装！！没有新技术！！
 
 简单时尚快捷的构建工具
 
 # 模块
-一个文件夹代表一个模块，每个模块由 `html` `css` `js`文件组成。
+一个模块就是一个文件夹，下面我们来新建一个模块试试。
 
-# UI 模块
-负责呈现界面的模块，例如 `Button` 模块
+### 新建一个模块
 
-## Button
+```sh
+mkdir button
+```
+
+### 删除一个模块
+
+```sh
+rm -rf button
+```
+
+# 编辑模块
+编辑模块就是编辑文件，没了。
 
 ### html 文件
 
