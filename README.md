@@ -15,33 +15,26 @@ NO gulp!  NO SCSS!  NO CoffeeScript!  NO Grunt、Stylus、LESS....!!!!
 
 # Javascript 模块
 
-###javascript
-
-// 模块
+```js
 export.button
 
-button.prototype
+button.prototype.error
 
 require('button')
+```
 
-###
+```css
 
-###css
+button { }
 
-button {
-  
-}
-
-button.error {
-  
-}
+button.error { }
 
 
 @import button
 
-###
+```
 
-###html
+```html
 
 <button>按钮</button>
 
@@ -49,4 +42,4 @@ button.error {
 
 incloud('button.html')
 
-###
+```
