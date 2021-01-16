@@ -1,0 +1,27 @@
+{
+  "name": "lily-ui",
+  "version": "0.1.0",
+  "description": "> Mobile UI elements for **Vue 2.0**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majunbao/lily-ui.git"
+  },
+  "keywords": [
+    "vue",
+    "lilyui"
+  ],
+  "author": "majunbao",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/majunbao/lily-ui/issues"
+  },
+  "homepage": "https://github.com/majunbao/lily-ui#readme",
+  "devDependencies": {
+    "webpack": "^5.15.0",
+    "webpack-cli": "^4.3.1"
+  }
+}
